@@ -42,7 +42,23 @@
           <p>Swift</p>
         </div>
       </div>
+
+      <div class="contact-form">
+      <!-- Tambahkan tag <h3> dengan kelas "section-title" -->
+      <h3 class="section-title">Hubungi Kami</h3>
       
+      <!-- Tambahkan tiga tags <p> dibawah -->
+      <p>Email (Wajib Diisi)</p>
+      <input>
+
+      <p>Pesan (Wajib Diisi)</p>
+      <textarea></textarea>
+
+      <p>*Bidang wajib diisi.</p>
+      <input class="contact-submit" type="submit" value="kirim">
+      
+      </div>
+
     </div>
 
     <div class="footer">
